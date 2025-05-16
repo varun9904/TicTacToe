@@ -1,0 +1,19 @@
+.board-row{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.board-container{
+    margin: 20px
+}
+
+.header{
+    color: darkblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+.won {
+    text-align: center;
+}
